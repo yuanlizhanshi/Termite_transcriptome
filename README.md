@@ -37,3 +37,5 @@ Construct salmon index
 >snakemake -s salmon_quant.smk -c 40
 
 Quantification gene expression by [salmon](https://github.com/COMBINE-lab/salmon).
+
+You can contact the authors of the manuscript (kongyunhui1@gmail.com) with with questions or requests for code which will be addressed as soon as possible.
