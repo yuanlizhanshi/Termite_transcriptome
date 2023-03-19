@@ -38,4 +38,4 @@ Construct salmon index
 
 Quantification gene expression by [salmon](https://github.com/COMBINE-lab/salmon).
 
-You can contact the authors of the manuscript (kongyunhui1@gmail.com) with with questions or requests for code which will be addressed as soon as possible.
+You can contact the authors of the manuscript (kongyunhui1@gmail.com) with any questions or requests for code, which will be addressed as soon as possible.
