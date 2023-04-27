@@ -1,5 +1,5 @@
 # Termite_transcriptome
-This is the bioinfomatics analysis pipeline for termite_transcriptome paper
+This is the bioinfomatics analysis pipeline for termite transcriptome paper published in [Frontiers in Physiology](https://www.frontiersin.org/articles/10.3389/fphys.2023.1194370/full)
 
 ## *De novo* assembly RNA-seq reads
 >zcat ./clean_data/*_1.clean.fq.gz |bgzip -@ 40 > ./trinity/all_left.fq.gz \
